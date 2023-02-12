@@ -1,0 +1,16 @@
+
+.btn:hover {
+    background-color: #ff70a2; /* Green */
+    color: white;
+  }
+
+.btn{
+    border:none;
+    border-radius:5%;
+    padding:13px;
+    margin:8px;
+    font-size:1.5rem;
+    font-weight:500;
+    color:white;
+    background-color:#fca8a2;
+  }  
